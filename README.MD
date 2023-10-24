@@ -9,3 +9,4 @@
 - Optar pelo light mode ou dark mode
 
 ### Acesse o projeto pelo link:
+https://natcurti.github.io/lista-de-tarefas/
